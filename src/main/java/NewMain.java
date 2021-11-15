@@ -17,6 +17,7 @@ public class NewMain {
         //Création du projet
         //Première modification
         // première collaboration
+        //Recherche conflit
     }
     
 }
